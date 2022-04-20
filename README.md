@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @david-botero10
-- 👀 I’m interested in Data Analysis, Databases and Backend.
-- 🌱 I’m currently learning Python, SQL and NodeJs.
+- 👀 I’m Data Engineer
